@@ -9,7 +9,10 @@
 ## BOJ
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwjo0228)](https://solved.ac/profile/kwjo0228)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwjo0228)](https://solved.ac/wke1wke1)
+
+
+
 
 
 ---
