@@ -50,7 +50,7 @@
 ## 🏃 Activity
 
 <details>
-  <summary>🐱</summary>-->
+  <summary>🐱</summary>
   
 | 기간 | 활동 | 기수 및 역할 |
 | --- | --- | --- |
