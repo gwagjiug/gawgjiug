@@ -34,5 +34,13 @@
 ![](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 
+## Activity
+
+| 기간 | 활동 | 기수 |
+| --- | --- | --- |
+| 2024.06 ~ | LG U+ UREKA | 1기 |
+
+
+
 
 
