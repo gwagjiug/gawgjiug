@@ -18,7 +18,7 @@
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gawgjiug" alt="Top Langs"/>
       </a>
     </td>
-    <td align="center" style="width: 50%;">
+    <td align="center" style="width: 50% ;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gawgjiug&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
       </a>
@@ -33,26 +33,33 @@
 
 
 
-## 🔨SKILL🔨
+## 🔨SKILL
     
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 
 
 
 
 
-## 📖Studying📖
+## 📖Studying
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white)
 ![](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 
-## Activity
+
+## ⚡️Once I've Used
+![](https://img.shields.io/badge/Glide-18BED4?style=for-the-badge&logo=Glide&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+
+##  🏃 Activity
 
 | 기간 | 활동 | 기수 및 역할 |
 | --- | --- | --- |
