@@ -1,15 +1,33 @@
 <div align="center">
   <h2>👻 Gwagjiug 👻</h2>
-  <a href="https://velog.io/@gawgjiug/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://www.instagram.com/gwagjiug/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://github.com/gawgjiug"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgawgjiug&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gawgjiug" alt="Top Langs"/>
+  <a href="https://velog.io/@gawgjiug/posts">
+    <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gwagjiug/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gawgjiug">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgawgjiug&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
   </a>
 </div>
+
+<table>
+  <tr>
+    <td align="center" style="width: 50%;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gawgjiug" alt="Top Langs"/>
+      </a>
+    </td>
+    <td align="center" style="width: 50%;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gawgjiug&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
