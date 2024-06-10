@@ -33,12 +33,12 @@
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 
-## 📖Studying
+<!-- ## 📖Studying
 
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white)
+//![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white)
+//![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white)
 ![](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)-->
 
 ## ⚡️Once I've Used
 
@@ -50,7 +50,7 @@
 ## 🏃 Activity
 
 <details>
-  <summary>🐱</summary>
+  <summary>🐱</summary>-->
   
 | 기간 | 활동 | 기수 및 역할 |
 | --- | --- | --- |
