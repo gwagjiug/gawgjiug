@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👻 Gwagjiug 👻</h2>
+  <h2> Gwagjiug </h2>
   <a href="https://velog.io/@gawgjiug/posts">
     <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
