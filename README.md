@@ -2,7 +2,7 @@
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/gawgjiug"
-      style="width: 100%; height: auto;"
+      style="width: 100%; height: 300px;"
       alt="GitAnimals"
     />
   </a>
