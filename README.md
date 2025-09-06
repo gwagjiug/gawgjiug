@@ -1,9 +1,5 @@
+<div align="center">
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/gawgjiug?pet-id=592992539210705748"
-    width="1000"
-    height="150"
-  />
-</a>
-  
+![gwagjiug/tech-stack@orbit](https://tech-stack.wontory.dev/api/orbit?text=gwagjiug&slugs=typescript,graphql,relay,react)
+
+</div>
